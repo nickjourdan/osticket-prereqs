@@ -6,9 +6,7 @@
 This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
 
-<h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -31,7 +29,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://imgur.com/a/dlfhz1t" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/7rR0Sab" height="80%" width="80%" alt="CGI process"/>
 </p>
 <p>
 First, go to control panel, and select programs. From there, click turn windows features on or off. Enable Internet Information services, then expand that program. Enable World Wide Web Services, then expand that program as well. Proceed to expand the Application Development Features program, and finally enable CGI.
