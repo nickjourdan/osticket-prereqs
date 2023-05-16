@@ -45,9 +45,21 @@ Proceed then to download and install PHP Manager for IIS, as well as downloading
 <br />
 
 <p>
-<img src="https://imgur.com/a/krm04mD" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/a/krm04mD" height="80%" width="80%" alt="Folder Setup"/>
 </p>
 <p>
 Create a folder in the C: aree in your pc, and create a folder called "PHP." then proceed in install the file php-7.3.8-nts-Win32-VC15-x86.zip and then unzip the file within the PHP folder. 
 </p>
 <br />
+
+<p>
+<img src="https://imgur.com/a/NFjNuVi" height="80%" width="80%" alt="More Program Downloads"/>
+</p>
+<p>
+Download both VC_redist.x86.exe as well as MySQL 5.5.62 programs. When in the MySQL setup wizard, choose the standard configuration.
+</p>
+<br />
+
+
+
+
