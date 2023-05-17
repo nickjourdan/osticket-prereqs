@@ -60,6 +60,14 @@ Download both VC_redist.x86.exe as well as MySQL 5.5.62 programs. When in the My
 </p>
 <br />
 
+<p>
+<img src="https://imgur.com/a/NFjNuVi" height="80%" width="80%" alt="More Program Downloads"/>
+</p>
+<p>
+Open Internet Information Services (IIS) and run as administrator. Open up the PHP manager, and register a new PHP version. Link it to php-cgi.exe within he files on the C: files. Restart the IIS once it's complete.
+</p>
+<br />
+
 
 
 
