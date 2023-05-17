@@ -68,6 +68,14 @@ Open Internet Information Services (IIS) and run as administrator. Open up the P
 </p>
 <br />
 
+<p>
+<img src="https://imgur.com/a/NFjNuVi" height="80%" width="80%" alt="More Program Downloads"/>
+</p>
+<p>
+Proceed to download osTicket, and then move the upload folder into c:\inetpub\wwwroot. Once there, rename the upload folder to osTicket.
+</p>
+<br />
+
 
 
 
