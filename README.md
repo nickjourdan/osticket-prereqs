@@ -76,6 +76,14 @@ Proceed to download osTicket, and then move the upload folder into c:\inetpub\ww
 </p>
 <br />
 
+<p>
+<img src="https://imgur.com/a/NFjNuVi" height="80%" width="80%" alt="More Program Downloads"/>
+</p>
+<p>
+Return to IIS and ouble click on PHP manager. From there, click on "Enable or disable extension". Once you get to that screen enable three extensions: Enable: php_imap.dll, Enable: php_intl.dll, Enable: php_opcache.dll.
+
+</p>
+<br />
 
 
 
