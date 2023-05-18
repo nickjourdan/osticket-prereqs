@@ -85,5 +85,24 @@ Return to IIS and ouble click on PHP manager. From there, click on "Enable or di
 </p>
 <br />
 
+<p>
+<img src="https://imgur.com/a/NFjNuVi" height="80%" width="80%" alt="More Program Downloads"/>
+</p>
+<p>
+Return to IIS and ouble click on PHP manager. From there, click on "Enable or disable extension". Once you get to that screen enable three extensions: Enable: php_imap.dll, Enable: php_intl.dll, Enable: php_opcache.dll.
+
+</p>
+<br />
+
+<p>
+<img src="https://imgur.com/a/NFjNuVi" height="80%" width="80%" alt="More Program Downloads"/>
+</p>
+<p>
+Rename ost-config.php from C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
+to C:\inetpub\wwwroot\osTicket\include\ost-config.php. After that, go to ost.config.php in the file manager, and click properties. Go to security, and disable inheritance; remove all users from it. Then, add new permissions, and type "Everyone" in the users bar, and check all the boxes for full control to all users. Click apply and then ok to finalize changes.
+
+</p>
+<br />
+
 
 
